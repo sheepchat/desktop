@@ -1,2 +1,2 @@
-# desktop
-Desktop releases
+## sheepChat Desktop
+Here are releases and issues.
